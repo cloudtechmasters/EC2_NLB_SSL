@@ -1,5 +1,5 @@
-# EC2_NLB_WAF_SSL
-EC2_NLB_WAF_SSL
+# EC2_NLB_SSL
+EC2_NLB_SSL
 
 Will cover 
 - deploy java app on EC2
